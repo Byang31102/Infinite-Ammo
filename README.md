@@ -1,5 +1,5 @@
 # Infinite-Ammo
-<a hreh="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> text </a>
+<a hreh="pygame‑1.9.3‑cp36‑cp36m‑win_amd64.whl"> Pygame </a>
 <p> 
 Game Name: Infinite Ammo
 
