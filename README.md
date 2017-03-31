@@ -1,5 +1,4 @@
 # Infinite-Ammo
-<a hreh="pygame‑1.9.3‑cp36‑cp36m‑win_amd64.whl"> (Image Resource </a>
 <p> 
 Game Name: Infinite Ammo
 
@@ -9,3 +8,4 @@ Company Name: ProBlood by Barry Yang, Elliot Fernandez, and Andrew Park
 <img src="https://github.com/byang6585/Infinite-Ammo/blob/master/Capture6.PNG" width = "250 " height = "200">
 <img src="https://github.com/byang6585/Infinite-Ammo/blob/master/Capture7.PNG" width = "250 " height = "200">
 <img src="https://github.com/byang6585/Infinite-Ammo/blob/master/Capture8.PNG" width = "250 " height = "200">
+<a hreh="pygame‑1.9.3‑cp36‑cp36m‑win_amd64.whl"> Pygame </a>
