@@ -8,4 +8,4 @@ Company Name: ProBlood by Barry Yang, Elliot Fernandez, and Andrew Park
 <img src="https://github.com/byang6585/Infinite-Ammo/blob/master/Capture6.PNG" width = "250 " height = "200">
 <img src="https://github.com/byang6585/Infinite-Ammo/blob/master/Capture7.PNG" width = "250 " height = "200">
 <img src="https://github.com/byang6585/Infinite-Ammo/blob/master/Capture8.PNG" width = "250 " height = "200">
-<a href="pygame‑1.9.3‑cp36‑cp36m‑win_amd64.whl"> Pygame Game File </a>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> Pygame Game File </a>
